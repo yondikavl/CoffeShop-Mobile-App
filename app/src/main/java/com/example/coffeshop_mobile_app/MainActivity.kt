@@ -1,6 +1,7 @@
 package com.example.coffeshop_mobile_app
 
 import CategoryItem
+import MenuItem
 import Search
 import SectionText
 import android.bluetooth.BluetoothClass.Device
