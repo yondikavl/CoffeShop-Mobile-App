@@ -1,6 +1,6 @@
-package com.example.coffeshop_mobile_app.model
+package com.yondikavl.coffeshop_mobile_app.model
 
-import com.example.coffeshop_mobile_app.R
+import com.yondikavl.coffeshop_mobile_app.R
 
 data class Menu(
     val image: Int,

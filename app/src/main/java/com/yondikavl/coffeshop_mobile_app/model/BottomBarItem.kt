@@ -1,4 +1,4 @@
-package com.example.coffeshop_mobile_app.model
+package com.yondikavl.coffeshop_mobile_app.model
 
 import androidx.compose.ui.graphics.vector.ImageVector
 

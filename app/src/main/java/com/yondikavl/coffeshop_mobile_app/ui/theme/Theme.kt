@@ -1,4 +1,4 @@
-package com.example.coffeshop_mobile_app.ui.theme
+package com.yondikavl.coffeshop_mobile_app.ui.theme
 
 import android.app.Activity
 import android.os.Build

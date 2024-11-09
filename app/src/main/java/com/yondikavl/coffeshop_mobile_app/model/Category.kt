@@ -1,8 +1,8 @@
-package com.example.coffeshop_mobile_app.model
+package com.yondikavl.coffeshop_mobile_app.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
-import com.example.coffeshop_mobile_app.R
+import com.yondikavl.coffeshop_mobile_app.R
 
 data class Category(
     @DrawableRes val imageCategory: Int,

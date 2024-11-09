@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.coffeshop_mobile_app"
+    namespace = "com.yondikavl.coffeshop_mobile_app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.coffeshop_mobile_app"
+        applicationId = "com.yondikavl.coffeshop_mobile_app"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.example.coffeshop_mobile_app
+package com.yondikavl.coffeshop_mobile_app
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
