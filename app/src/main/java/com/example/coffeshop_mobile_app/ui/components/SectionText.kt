@@ -17,6 +17,6 @@ fun SectionText(
             fontWeight = FontWeight.Bold
         ),
         modifier = modifier
-            .padding(horizontal = 16.dp, vertical = 8.dp)
+            .padding(top = 20.dp, bottom = 16.dp, start = 16.dp, end = 16.dp)
     )
 }
